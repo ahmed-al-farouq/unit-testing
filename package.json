@@ -1,0 +1,22 @@
+{
+  "name": "unit-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmed-al-farouq/unit-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmed-al-farouq/unit-testing/issues"
+  },
+  "homepage": "https://github.com/ahmed-al-farouq/unit-testing#readme",
+  "devDependencies": {
+    "jest": "^27.2.4"
+  }
+}
